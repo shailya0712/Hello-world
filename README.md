@@ -1,2 +1,3 @@
 # Hello-world
-just another repository
+hii human
+i like python and learning about github
